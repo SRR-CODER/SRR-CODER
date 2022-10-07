@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/SRR-CODER/Assets/blob/main/Hi.gif" width="29px"> 
 This Is Saket Roshan Rai (SR²) a budding Developer <img src="https://github.com/SRR-CODER/Assets/blob/main/web-development.png" width="29px">
-& a B.Tech undergrad at IIIT Kottayam <img src="https://SRR-CODER/Assets/blob/main/school.png" width="30px">
+& a B.Tech undergrad at IIIT Kottayam <img src="[https://SRR-CODER/Assets/blob/main/school.png](https://github.com/SRR-CODER/Assets/blob/main/school.png)" width="30px">
 
 
 
