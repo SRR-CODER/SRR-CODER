@@ -1,6 +1,6 @@
 ### Hi there This Is Saket Roshan Rai (SR²)👋
 
-![github]https://github.com/SRR-CODER
+![github](https://github.com/SRR-CODER)
 
 <!--
 **SRR-CODER/SRR-CODER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
