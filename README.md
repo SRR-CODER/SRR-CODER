@@ -1,4 +1,4 @@
-### Hi there This Is Saket Roshan Rai (SR²)![Hi](https://user-images.githubusercontent.com/78961362/194473397-a51dc5b9-8fdd-43fa-8dce-ad19680d69de.gif)
+### Hi there This Is Saket Roshan Rai (SR²)<img src="https://github.com/SRR-CODER/Assets/Hi.gif" width="29px"> 
 
 
 
