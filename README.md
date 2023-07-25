@@ -5,7 +5,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Kottayam.\
-✍️ &nbsp;In my free time, I do Competitive Programming and like to solve challenging problems.\
+✍️ &nbsp;In my free time, I do Problem Solving and like to solve challenging questions/puzzles.
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
