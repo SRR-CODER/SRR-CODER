@@ -1,6 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/SRR-CODER) <br>
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='50' align="left"/><h2>Hey there! I'm Saket</h2>
+🖐<h2>Hey there! I'm Saket</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
