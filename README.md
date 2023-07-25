@@ -1,5 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/SRR-CODER) <br>
-🖐<h2>Hey there! I'm Saket</h2>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><h2>Hey there! I'm Saket</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
