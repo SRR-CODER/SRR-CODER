@@ -44,6 +44,6 @@
 ### 🤝🏻 Connect with Me  
 
 <p align>
-<a href="https://www.linkedin.com/in/srriiitk/"><img src="[https://img.shields.io/badge/-Nikhil%20Menon-05122A?style=flat&logo=linkedin](https://icons8.com/icon/108786/linkedin-2)"/></a>
-<a href="mailto:roshanrai20bcs122@iiitkottayam.ac.in"><img src="[https://img.shields.io/badge/-nikhil9302-05122A?style=flat&logo=gmail](https://icons8.com/icon/P7UIlhbpWzZm/gmail)https://icons8.com/icon/P7UIlhbpWzZm/gmail"/></a>
+<a href="https://www.linkedin.com/in/srriiitk/"><img src="[https://img.shields.io/badge/-Nikhil%20Menon-05122A?style=flat&logo=linkedin](https://icons8.com/icon/108786/linkedin-2)"/> Saket</a>
+<a href="mailto:roshanrai20bcs122@iiitkottayam.ac.in"><img src="[https://img.shields.io/badge/-nikhil9302-05122A?style=flat&logo=gmail](https://icons8.com/icon/P7UIlhbpWzZm/gmail)https://icons8.com/icon/P7UIlhbpWzZm/gmail"/> Saket</a>
 </p>
